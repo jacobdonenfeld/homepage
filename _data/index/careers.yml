@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: 
-    detail:Researcher at the Lab for Autonomous Intelligent Robots
+    detail: Researcher at the Lab for Autonomous Intelligent Robots
     i18n: company_a
   desc:
     detail:  Researched and created algorithms for path planning with no end location.
