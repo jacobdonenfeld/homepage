@@ -9,6 +9,7 @@ tags: [Bottle,Glass]
 icon: icon-html
 ---
 
+After a couple broken bottles and a couple hours, I got a rough finished product.
 
 	<!-- ![edit]({{ site.img_path }}bottle.jpg) -->
 	<img src="{{ site.img_path }}bottle.jpg" width="75%">
