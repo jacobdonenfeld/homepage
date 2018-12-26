@@ -27,8 +27,8 @@ Method 5: Scoring the bottle + butane torch. After heating up the score with a t
 
 I'll go into detail on the method that worked, method 5. Glass cutters look like the following. 
 
-<!-- ![edit]({{ site.img_path }}/blog/bottleinsidebottle/bottle.jpg) -->
-<img src="{{ site.img_path }}/blog//bottleinsidebottle/bottle.jpg" width="75%">
+<!-- ![edit]({{ site.img_path }}/bottleinsidebottle/bottle.jpg) -->
+<img src="{{ site.img_path }}/bottleinsidebottle/bottle.jpg" width="75%">
 
 They require a large amount of pressure to score the glass. I found a corner outside and lined it with cardboard so the glass bottle could slide without friction. I found a small rock, added some ducttape to it for friction with the glass cutter, and used that to prop up and stabilize the glass cutter. I then rotated the bottle while keeping pressure on the bottle in the direction of the corner. The bottle was stabilized as well as the glass cutter. It still requires a bit of guiding for the glass cutter to meet the cut as it finishes it. If the wheel that cuts the glass isn't exactly vertical, it travels a bit. 
 
@@ -46,6 +46,6 @@ After letting it dry, I filled it with water. As I put the cork in, the pressure
 
 Finally, I had a finished product.
 
-<!-- ![edit]({{ site.img_path }}/blog//bottleinsidebottle/bottle.jpg) -->
-<img src="{{ site.img_path }}/blog/bottleinsidebottle/bottle.jpg" width="75%">
+<!-- ![edit]({{ site.img_path }}/bottleinsidebottle/bottle.jpg) -->
+<img src="{{ site.img_path }}/bottleinsidebottle/bottle.jpg" width="75%">
 
