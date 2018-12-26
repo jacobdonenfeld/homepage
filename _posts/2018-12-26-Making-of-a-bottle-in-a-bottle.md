@@ -11,7 +11,7 @@ icon: fa-wine-bottle
 
 With the holidays around the corner, my dorm hosted a secret santa event. I needed some way to combine crafts, engineering, and gift giving for the holiday season. There is a tradition of "iceing" people. This involves hiding a smirnoff ice, and whenever somebody finds it, they get on one knee and drink it. What is a more unique gift than somebody's favorite type of wine, with an ice stuck inside of it.
 
-The first (and only) challenge was cutting a bottle in half perfectly. I'm going to lay out a few methods I tried and how they worked:
+The largest challenge was cutting a bottle in half perfectly. I'm going to lay out a few methods I tried and how they worked:
 
 Method | Effectiveness
 ------------ | -------------
