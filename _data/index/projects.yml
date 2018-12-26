@@ -8,12 +8,12 @@
   img: /static/assets/img/landing/jekyll.png
   desc: Built for Harvey Mudd's hackathon in 2017.
 
-#- name: Python
-#  i18n: cpython
-#  gh_user: python
-#  repo: cpython
-#  img: /static/assets/img/landing/python.png
-#  desc: This project is other's project. I use another request to get repo's information.
+- name: Bottle inside Bottle
+  i18n: cpython
+  gh_user: jacobdonenfeld
+  repo:  jacobdonenfeld.github.io/_posts/2018-12-26-Making-of-a-bottle-in-a-bottle.md 
+  img: /static/assets/img/blog/bottleinabottle/bottle.JPG
+  desc: Assembeled a bottle inside of a wine bottle.
 
 #- name: Google
 #  i18n: google
