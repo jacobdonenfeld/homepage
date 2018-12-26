@@ -22,7 +22,7 @@ The largest challenge was cutting a bottle in half perfectly. I'm going to lay o
 
 4. Method 2 and scoring the bottle. The acetone still wasn't hot enough so this wasn't effective.
 
-5. Scoring the bottle and butane torch. After heating up the score with a torch, dunking it in a bath of ice water. This cracked the bottle mostly along the score line. It was hard to keep the heat localized, so it usually ended up ruining either the top or bottom half of the bottle.
+5. Scoring the bottle and propane torch. After heating up the score with a torch, dunking it in a bath of ice water. This cracked the bottle mostly along the score line. It was hard to keep the heat localized, so it usually ended up ruining either the top or bottom half of the bottle.
 
 I'll go into detail on the method that worked, method 5. Glass cutters look like the following. 
 
@@ -31,7 +31,7 @@ I'll go into detail on the method that worked, method 5. Glass cutters look like
 
 They require a large amount of pressure to score the glass. I found a corner outside and lined it with cardboard so the glass bottle could slide without friction. I found a small rock and added some duct tape to it to better interface with the glass cutter. I then used the rock to prop up and stabilize the glass cutter. I rotated the bottle while keeping pressure on the bottle in the direction of the corner. The bottle was stabilized as well as the glass cutter. It still requires a bit of guiding for the glass cutter to meet the cut as it finishes it. If the wheel that cuts the glass isn't exactly vertical, it travels a bit. 
 
-After the botttle was scored, I filled a trashcan up with water and ice. I assembeled my butane torch (they say to be stored disasembeled), and rotated the bottle as I applied the flame. I kept the flame sideways as it seemed to keep the heat more localized. Instead of the hot gas and flame hitting the bottle head on and deflecting sideways, it would brush off the bottle in the direction of the score. After doing so, I would take the bottle and quickly submurge it in the water. Usually, the bottle wouldn't completely break in half, but create a crack about half way around. This was enough to bang it a few times against the soft plastic of my trashcan and complete the break.
+After the botttle was scored, I filled a trashcan up with water and ice. I assembeled my propane torch (it says to be stored disasembeled), and rotated the bottle as I applied the flame. I kept the flame sideways as it seemed to keep the heat more localized. Instead of the hot gas and flame hitting the bottle head on and deflecting sideways, it would brush off the bottle in the direction of the score. After doing so, I would take the bottle and quickly submurge it in the water. Usually, the bottle wouldn't completely break in half, but create a crack about half way around. This was enough to bang it a few times against the soft plastic of my trashcan and complete the break.
 
 The crack on the bottle traveled down either the top side or bottom side, so I decided to break two different bottles and glue them together. Not obtaining two halves at once presented another issue. The cut on one bottle would not match up to the cut on the bottom bottle. This was fixed through a lot of sanding of 80 grit sandpaper. 
 
