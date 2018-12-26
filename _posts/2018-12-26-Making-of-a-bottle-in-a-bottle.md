@@ -13,17 +13,16 @@ With the holidays around the corner, my dorm hosted a secret santa event. I need
 
 The largest challenge was cutting a bottle in half perfectly. I'm going to lay out a few methods I tried and how they worked:
 
-Method | Effectiveness
------------- | -------------
-Method 1: First tying twine loosely around two fixed locations. Then you take this twine and wrap it around the bottle once. Moving the bottle back and forwardth supposidely creates heat. Dunking it in an ice bath afterwards should make a clean cut.  | No cracks. Not even close to breaking. It was difficult to keep the twine in one location.
- -|-
-Method 2: Soaking the twine in acetone. Tying the twine around the bottle and lighting it on fire. | Bottle never cracked
- -|-
-Method 3: Method 1 + scoring the bottle with a glass cutter. | Too much friction, twine wouldn't slide. 
- -|-
-Method 4: Method 2 + scoring the bottle. | No break, still not enough heat
- -|-
-Method 5: Scoring the bottle + butane torch. After heating up the score with a torch, dunking it in a bath of ice water. | Cracked the bottle mostly along the score line. It was hard to keep the heat localized, so it usually ended up ruining either the top or bottom half of the bottle.
+
+1.  First tying twine loosely around two fixed locations. Then taking this twine and wraping it around the bottle once. Moving the bottle back and forwardth supposidely creates heat. Dunking it in an ice bath afterwards should make a clean cut.  This didn't create any cracks or break the bottle. Additionally, it was difficult to keep the twine in one location when moving it back and forward.
+
+2. Soaking the twine in acetone. Tying the twine around the bottle and lighting it on fire. While on fire, rotating it so all sides stay lit evenly. The heat was never hot or long enough and the bottle never cracked. I suspect this may work better with something cotton or another material that can better hold the acetone.
+
+3. Method 1 and scoring the bottle with a glass cutter. The scoring caused too much friction for the twine to slide. It didn't work.
+
+4. Method 2 and scoring the bottle. The acetone still wasn't hot enough so this wasn't effective.
+
+5. Scoring the bottle and butane torch. After heating up the score with a torch, dunking it in a bath of ice water. This cracked the bottle mostly along the score line. It was hard to keep the heat localized, so it usually ended up ruining either the top or bottom half of the bottle.
 
 I'll go into detail on the method that worked, method 5. Glass cutters look like the following. 
 
