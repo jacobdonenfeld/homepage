@@ -3,7 +3,7 @@ layout: post
 title:  "Making a Bottle Inside a Bottle"
 date:   2018-12-26
 desc: "My process of cutting a bottle in half and gluing it back together, through trial and error."
-keywords: "Glass, breaking, bottle, epoxy"
+keywords: "Glass, breaking, bottle, epoxy, bottle inside bottle, crafts"
 categories: [Blog]
 tags: [Bottle,Glass]
 icon: fa-wine-bottle
@@ -30,7 +30,7 @@ I'll go into detail on the method that worked, method 5. Glass cutters look like
 <!-- ![edit]({{ site.img_path }}/bottleinsidebottle/bottle.jpg) -->
 <img src="{{ site.img_path }}/bottleinsidebottle/bottle.jpg" width="75%">
 
-They require a large amount of pressure to score the glass. I found a corner outside and lined it with cardboard so the glass bottle could slide without friction. I found a small rock, added some ducttape to it for friction with the glass cutter, and used that to prop up and stabilize the glass cutter. I then rotated the bottle while keeping pressure on the bottle in the direction of the corner. The bottle was stabilized as well as the glass cutter. It still requires a bit of guiding for the glass cutter to meet the cut as it finishes it. If the wheel that cuts the glass isn't exactly vertical, it travels a bit. 
+They require a large amount of pressure to score the glass. I found a corner outside and lined it with cardboard so the glass bottle could slide without friction. I found a small rock and added some duct tape to it to better interface with the glass cutter. I then used the rock to prop up and stabilize the glass cutter. I rotated the bottle while keeping pressure on the bottle in the direction of the corner. The bottle was stabilized as well as the glass cutter. It still requires a bit of guiding for the glass cutter to meet the cut as it finishes it. If the wheel that cuts the glass isn't exactly vertical, it travels a bit. 
 
 After the botttle was scored, I filled a trashcan up with water and ice. I assembeled my butane torch (they say to be stored disasembeled), and rotated the bottle as I applied the flame. I kept the flame sideways as it seemed to keep the heat more localized. Instead of the hot gas and flame hitting the bottle head on and deflecting sideways, it would brush off the bottle in the direction of the score. After doing so, I would take the bottle and quickly submurge it in the water. Usually, the bottle wouldn't completely break in half, but create a crack about half way around. This was enough to bang it a few times against the soft plastic of my trashcan and complete the break.
 
