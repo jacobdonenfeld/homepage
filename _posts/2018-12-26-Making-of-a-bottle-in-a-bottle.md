@@ -46,5 +46,5 @@ After letting it dry, I filled it with water. As I put the cork in, the pressure
 Finally, I had a finished product.
 
 <!-- ![edit]({{ site.img_path }}/bottleinsidebottle/bottle.JPG) -->
-<img src="{{ site.img_path }}/bottleinsidebottle/bottle.JPG" width="75%">
+<img src="{{ site.img_path }}/bottleinsidebottle/bottle.JPG" width="50%">
 
