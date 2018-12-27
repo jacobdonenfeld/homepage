@@ -6,7 +6,7 @@ desc: "My process of cutting a bottle in half and gluing it back together, throu
 keywords: "Glass, breaking, bottle, epoxy, bottle inside bottle, crafts"
 categories: [Blog]
 tags: [Bottle,Glass]
-icon: fa-wine-bottle
+icon: fa-glass
 ---
 
 With the holidays around the corner, my dorm hosted a secret santa event. I needed some way to combine crafts, engineering, and gift giving for the holiday season. There is a tradition of "iceing" people. This involves hiding a smirnoff ice, and whenever somebody finds it, they get on one knee and drink it. What is a more unique gift than somebody's favorite type of wine, with an ice stuck inside of it. The largest challenge of the project was cutting a bottle in half perfectly. 
