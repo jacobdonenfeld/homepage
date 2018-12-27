@@ -9,27 +9,33 @@ tags: [Bottle,Glass]
 icon: fa-wine-bottle
 ---
 
-With the holidays around the corner, my dorm hosted a secret santa event. I needed some way to combine crafts, engineering, and gift giving for the holiday season. There is a tradition of "iceing" people. This involves hiding a smirnoff ice, and whenever somebody finds it, they get on one knee and drink it. What is a more unique gift than somebody's favorite type of wine, with an ice stuck inside of it.
+With the holidays around the corner, my dorm hosted a secret santa event. I needed some way to combine crafts, engineering, and gift giving for the holiday season. There is a tradition of "iceing" people. This involves hiding a smirnoff ice, and whenever somebody finds it, they get on one knee and drink it. What is a more unique gift than somebody's favorite type of wine, with an ice stuck inside of it. The largest challenge of the project was cutting a bottle in half perfectly. 
 
-The largest challenge was cutting a bottle in half perfectly. I'm going to lay out a few methods I tried and how they worked:
+<!-- ![edit]({{ site.img_path }}/bottleinsidebottle/bottle.JPG) -->
+<img src="{{ site.img_path }}/bottleinsidebottle/bottle.JPG" width="50%">
 
+Materials:
+* 1 Glass cutter
+* 2 Wine bottles
+* 1 Beer bottle sized bottle
+* 1 Butane Torch
+* 1 Trash Can
+* A lot of ice and water
 
-1.  First tying twine loosely around two fixed locations. Then taking this twine and wraping it around the bottle once. Moving the bottle back and forwardth supposidely creates heat. Dunking it in an ice bath afterwards should make a clean cut.  This didn't create any cracks or break the bottle. Additionally, it was difficult to keep the twine in one location when moving it back and forward.
+Steps:
+1. Perforate the bottle by the base.
+2. Heat the perforation with a butane torch
+3. Dunk it in ice water
+4. Repeat 1, 2 and 3 for another bottle, with the perforation closer to the neck.
+5. Sand each larger half of the bottles with 80 grit sand paper.
+6. Put the beer bottle in the larger bottom half then the larger top half on top.
+7. Epoxy it together.
+8. Fill with water.
+9. Put cork on.
 
-2. Soaking the twine in acetone. Tying the twine around the bottle and lighting it on fire. While on fire, rotating it so all sides stay lit evenly. The heat was never hot or long enough and the bottle never cracked. I suspect this may work better with something cotton or another material that can better hold the acetone.
+###Further detail:
 
-3. Method 1 and scoring the bottle with a glass cutter. The scoring caused too much friction for the twine to slide. It didn't work.
-
-4. Method 2 and scoring the bottle. The acetone still wasn't hot enough so this wasn't effective.
-
-5. Scoring the bottle and propane torch. After heating up the score with a torch, dunking it in a bath of ice water. This cracked the bottle mostly along the score line. It was hard to keep the heat localized, so it usually ended up ruining either the top or bottom half of the bottle.
-
-I'll go into detail on the method that worked, method 5. Glass cutters look like the following. 
-
-<!-- ![edit]({{ site.img_path }}/bottleinsidebottle/glasscutter.jpg) -->
-<img src="{{ site.img_path }}/bottleinsidebottle/glasscutter.jpg" width="75%">
-
-They require a large amount of pressure to score the glass. I found a corner outside and lined it with cardboard so the glass bottle could slide without friction. I found a small rock and added some duct tape to it to better interface with the glass cutter. I then used the rock to prop up and stabilize the glass cutter. I rotated the bottle while keeping pressure on the bottle in the direction of the corner. The bottle was stabilized as well as the glass cutter. It still requires a bit of guiding for the glass cutter to meet the cut as it finishes it. If the wheel that cuts the glass isn't exactly vertical, it travels a bit. 
+Getting the perforation to make a full circle requires some preperation. Glass cutters require a large amount of pressure to score the glass. I found a corner outside and lined it with cardboard so the glass bottle could slide without friction. I found a small rock and added some duct tape to it to better interface with the glass cutter. I then used the rock to prop up and stabilize the glass cutter. I rotated the bottle while keeping pressure on the bottle in the direction of the corner. The bottle was stabilized as well as the glass cutter. It still requires a bit of guiding for the glass cutter to meet the cut as it finishes it. If the wheel that cuts the glass isn't exactly vertical, it travels a bit. 
 
 After the botttle was scored, I filled a trashcan up with water and ice. I assembeled my propane torch (it says to be stored disasembeled), and rotated the bottle as I applied the flame. I kept the flame sideways as it seemed to keep the heat more localized. Instead of the hot gas and flame hitting the bottle head on and deflecting sideways, it would brush off the bottle in the direction of the score. After doing so, I would take the bottle and quickly submurge it in the water. Usually, the bottle wouldn't completely break in half, but create a crack about half way around. This was enough to bang it a few times against the soft plastic of my trashcan and complete the break.
 
