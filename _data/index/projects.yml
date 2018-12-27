@@ -1,12 +1,6 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Soda Dispenser
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: Built for Harvey Mudd's hackathon in 2017.
 
 - name: Bottle inside Bottle
   i18n: cpython
