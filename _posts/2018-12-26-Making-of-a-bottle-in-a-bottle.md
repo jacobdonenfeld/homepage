@@ -33,7 +33,7 @@ Steps:
 8. Fill with water.
 9. Put cork on.
 
-###Further detail:
+### Further detail:
 
 Getting the perforation to make a full circle requires some preperation. Glass cutters require a large amount of pressure to score the glass. I found a corner outside and lined it with cardboard so the glass bottle could slide without friction. I found a small rock and added some duct tape to it to better interface with the glass cutter. I then used the rock to prop up and stabilize the glass cutter. I rotated the bottle while keeping pressure on the bottle in the direction of the corner. The bottle was stabilized as well as the glass cutter. It still requires a bit of guiding for the glass cutter to meet the cut as it finishes it. If the wheel that cuts the glass isn't exactly vertical, it travels a bit. 
 
