@@ -11,7 +11,7 @@ icon: fa-forward
 
 There is a significant presence of wheels-skateboards, longboards, freelines-on Harvey Mudd's campus. While anyone could buy one, I saw this as an opportunity to make my own. 
 
-## Materials and Resources Used
+### Materials and Resources Used
 * 7071 T6 Aluminum 1'x4'x.5"
 * Waterjet Cutter
 * Prototyping Plywood 2'x4'x1"
@@ -30,5 +30,6 @@ Thick 7071 aluminum allowed me to experiment with some unique shapes while not w
 <a href='http://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=996265'>Download</a>
 
 I decided to use the second design for simplicity and eligance. 
+
 
 
