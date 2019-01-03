@@ -11,7 +11,7 @@ icon: fa-forward
 
 There is a significant presence of wheels-skateboards, longboards, freelines-on Harvey Mudd's campus. While anyone could buy one, I saw this as an opportunity to make my own. 
 
-Before I decided on aluminum, I had to consider material properties: weight, youngs modulus, yield point, and ease of manufactoring. Most longboards use plys of wood with fiberglass layers for a great strength to weight ratio. However, I do not have a deck press needed for making longboards from plys of wood. I decided to go with aircraft grade aluminum. Although it would be heavy, it would be strong which allows interesting designs and for taking off material from the inside. This could reduce the weight a little. 
+Before I decided on aluminum, I had to consider material properties: weight, youngs modulus, yield point, and ease of manufactoring. Most longboards use plys of wood with fiberglass layers for a great strength to weight ratio. However, I do not have a deck press needed for making longboards from plys of wood. I went with 7071 T6 aluminum which would allow interesting designs. To mitigate the weight of the aluminum, some material could be taken off from the middle of the board.
 
 ### Materials and Resources Used
 * 7071 T6 Aluminum 1'x4'x.5"
