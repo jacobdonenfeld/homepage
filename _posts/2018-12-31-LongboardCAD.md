@@ -33,6 +33,7 @@ Thick 7071 aluminum allowed me to experiment with some unique shapes while not w
 
 I decided to use the second design for simplicity and eligance. 
 
+I am current at the point of prototyping with plywood.
 
 
 
