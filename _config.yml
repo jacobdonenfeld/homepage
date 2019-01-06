@@ -1,13 +1,11 @@
-# Welcome to Jekyll!
-
 # Website settings
 title: Jacob Donenfeld
 description: Jacob's resume and blog.
 keywords: Jacob,github,gh-pages
-baseurl:  /jacobdonenfeld.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: http://jacobdonenfeld.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
+baseurl:  /website # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: http://donenfeld.tech  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /jacobdonenfeld.github.io/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /website/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -19,7 +17,7 @@ author:  # change following line to your infomation.
   linkedin_id:  # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
-  email: jdonenfeld (AT) g.hmc.edu  # Leave blank if you don't have now
+  email: jacob@donenfeld.tech  # Leave blank if you don't have now
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
