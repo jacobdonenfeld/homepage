@@ -38,8 +38,8 @@ ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get
  id: UA-131653208-1
 
 ## google optimize
-go:
-  id: GTM-P3B4WJJ #UA-131653208-1 # GTM-P3B4WJJ
+#go:
+  #id:  #UA-131653208-1 # GTM-P3B4WJJ
 
 ## growingIO
 #gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
