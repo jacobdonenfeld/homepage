@@ -22,7 +22,7 @@
   i18n: nav.resume
   name: Resume
   tpl: resume.html
-  page: blog/
+  page: resume/
   css: 
 
 #- id: projects
