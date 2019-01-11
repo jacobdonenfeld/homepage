@@ -15,3 +15,4 @@ Facial recognition runs on the raspberry pi. When a face is detected, it sends a
 Future iterations will include an acceleromiter to detect when the door has been opened. 
 
 I used the library https://github.com/ageitgey/face_recognition with my code derived from facerec_on_raspberry_pi.py 
+
