@@ -16,3 +16,9 @@ Future iterations will include an acceleromiter to detect when the door has been
 
 I used the library https://github.com/ageitgey/face_recognition with my code derived from facerec_on_raspberry_pi.py 
 
+Tuning the stepper driver requires a multimeter and a screwdriver. On the A4988 data sheet, it gives the equation **INSERTEQUHERE**. This requires knowing the R_sense pin. This will depend on every board and requires checking for the specific model. Check the resistance onf the resistor pictured here. 
+
+It is important that the stepper is not plugged in so there is no additional current draw. I first set the multimeter to 20V, then attached a common ground. The voltage can be referenced off the pin used to adjust the current. From the equation previously stated, adjust the voltage to set the current at or below what the stepper motor is rated. 
+
+
+
