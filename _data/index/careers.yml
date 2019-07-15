@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: 
+    detail: Researcher at the Autonomous Networks Research Group
+    i18n: company_b
+  desc:
+    detail:  Researching applications of blockchain and consensus to multi-robot networks.
+    i18n: company_b_desc
+  date:
+    detail: June 2019
+    i18n: company_b_date
+  job:
+    detail: Researcher
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name: 
     detail: Researcher at the Lab for Autonomous Intelligent Robots
     i18n: company_a
   desc:
