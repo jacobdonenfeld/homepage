@@ -39,7 +39,7 @@ I decided to use the second design for simplicity, eligance, and structural prop
 The prototype was cut out of plywood on a shopbot cnc router.
 
 <!-- ![edit]({{ site.img_path }}/aluminumlongboard/woodlonboard.jpg) -->
-<img src="{{ site.img_path }}/aluminumlongboard/woodlongboard.jpg" width="25%">
+<img src="{{ site.img_path }}/aluminumlongboard/woodlongboard.jpg" width="50%">
 
 It was crucial to test for wheel bite at this stage. When turning, the wheels touched the side of the board and promped me to shave off a few inches from the area near the wheels.
 
