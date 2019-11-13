@@ -33,10 +33,13 @@ Thick 7075 aluminum allowed me to experiment with some unique shapes while not w
 
 I decided to use the second design for simplicity, eligance, and structural properties. The design was tested using solidworks FEA analysis for a load of two feet on the middle of the board. One side was fixed, the other was on a slider joint. All the cutouts were given a concave to prevent a high load of stress at those areas.
 
+<!-- ![edit]({{ site.img_path }}/aluminumlongboard/longboardfea.jpg) -->
+<img src="{{ site.img_path }}/aluminumlongboard/longboardfea.jpg" width="50%">
+
 The prototype was cut out of plywood on a shopbot cnc router.
 
 <!-- ![edit]({{ site.img_path }}/aluminumlongboard/woodlonboard.jpg) -->
-<img src="{{ site.img_path }}/aluminumlongboard/woodlongboard.jpg" width="50%">
+<img src="{{ site.img_path }}/aluminumlongboard/woodlongboard.jpg" width="25%">
 
 It was crucial to test for wheel bite at this stage. When turning, the wheels touched the side of the board and promped me to shave off a few inches from the area near the wheels.
 
