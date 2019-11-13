@@ -34,6 +34,7 @@ Thick 7075 aluminum allowed me to experiment with some unique shapes while not w
 I decided to use the second design for simplicity, eligance, and structural properties. The design was tested using solidworks FEA analysis for a load of two feet on the middle of the board. One side was fixed, the other was on a slider joint. All the cutouts were given a concave to prevent a high load of stress at those areas.
 
 The prototype was cut out of plywood on a shopbot cnc router.
+
 <!-- ![edit]({{ site.img_path }}/aluminumlongboard/woodlonboard.jpg) -->
 <img src="{{ site.img_path }}/aluminumlongboard/woodlongboard.jpg" width="50%">
 
