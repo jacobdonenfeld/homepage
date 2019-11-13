@@ -21,7 +21,7 @@ Before I decided on aluminum, I had to consider material properties: weight, you
 
 Research to find out the normal dimentions of a longboard showed most are 10 inches wide, ranging from 36 to 42 inches long. I decided to make mine 38 inches long. 
 
-Thick 7071 aluminum allowed me to experiment with some unique shapes while not worrying about plastic deformation. I came up with the following designs:
+Thick 7075 aluminum allowed me to experiment with some unique shapes while not worrying about plastic deformation. I came up with the following designs:
 
 <!-- ![edit]({{ site.img_path }}/aluminumlongboard/longboard1.jpg) -->
 <img src="{{ site.img_path }}/aluminumlongboard/longboard1.jpg" width="50%">
@@ -31,10 +31,22 @@ Thick 7071 aluminum allowed me to experiment with some unique shapes while not w
 <img src="{{ site.img_path }}/aluminumlongboard/longboard2.jpg" width="50%">
 <a href='http://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=996265'>Download</a>
 
-I decided to use the second design for simplicity and eligance. 
+I decided to use the second design for simplicity, eligance, and structural properties. The design was tested using solidworks FEA analysis for a load of two feet on the middle of the board. One side was fixed, the other was on a slider joint. All the cutouts were given a concave to prevent a high load of stress at those areas.
 
-I am current at the point of prototyping with plywood.
+The prototype was cut out of plywood on a shopbot cnc router.
+<!-- ![edit]({{ site.img_path }}/aluminumlongboard/woodlonboard.jpg) -->
+<img src="{{ site.img_path }}/aluminumlongboard/woodlongboard.jpg" width="50%">
 
+It was crucial to test for wheel bite at this stage. When turning, the wheels touched the side of the board and promped me to shave off a few inches from the area near the wheels.
 
+For the final product, this was cut out of 7075 T6 aluminum. It was already heat treated which prevented me from giving it a concave shape, but the structural properties more than made up for this.
+
+The aluminum was cut using a water jet cutter. This did not create any burs what would be a pain to remove afterwards. 
+
+<!-- ![edit]({{ site.img_path }}/aluminumlongboard/metallongboardground.jpg) -->
+<img src="{{ site.img_path }}/aluminumlongboard/metallongboardground.jpg" width="50%">
+
+<!-- ![edit]({{ site.img_path }}/aluminumlongboard/metallongboardtrucks.jpg) -->
+<img src="{{ site.img_path }}/aluminumlongboard/metallongboardtrucks.jpg" width="50%">
 
 
